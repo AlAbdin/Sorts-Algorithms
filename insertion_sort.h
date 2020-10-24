@@ -1,7 +1,7 @@
 //******************************************************************************************
-//File: merge_sort.h
+//File: insertion_sort.h
 //Programmer: Alaa Abdin
-//Date: 09/12/2020
+//Date: 10/12/2020
 //Description: Insertion sort header file.
 //******************************************************************************************
 #ifndef insertion_sort_h
