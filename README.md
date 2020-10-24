@@ -1,2 +1,2 @@
 # Codes
-All sorts were using some helper functions from the file utilis.cpp
+All sorts were using helper functions from the file utilis.cpp
